@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a:hover{
+    text-decoration: none;
+}
+body{
+    margin: 0 auto;
+    height: 5000px;
+    background-image: url(../asset/back.png);
+}
+.navbar{
+    border-radius: 0;
+    border: 0;
+    background: white;
+    font-family: "timeBurner";
+    font-size: 25px;
+    box-shadow: 0px 0px 5px 0px lightgray;
+    padding-top: 10px;
+    margin: 0;
+}
+.navbar a{
+    color: #F39C12;
+}
+.jumbotron{
+    background-image: url(../asset/1.jpg);
+    background-size:cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+}
+#txt-ban{
+    background: rgba(180,120,0,.4);
+    padding-bottom: 20px;
+}
+.fn-100{
+    font-size: 100px;
+}
+.fn-95{
+    font-size: 95px;
+}
+.fn-90{
+    font-size: 90px;
+}
+.fn-80{
+    font-size: 85px;
+}
+.fn-80{
+    font-size: 80px;
+}
+.fn-75{
+    font-size: 75px;
+}
+.fn-70{
+    font-size: 70px;
+}
+.fn-65{
+    font-size: 65px;
+}
+.fn-60{
+    font-size: 60px;
+}
+.fn-50{
+    font-size: 55px;
+}
+.fn-50{
+    font-size: 50px;
+}
+.fn-45{
+    font-size: 45px;
+}
+.fn-40{
+    font-size: 40px;
+}
+.fn-35{
+    font-size: 35px;
+}
+.fn-30{
+    font-size: 30px;
+}
+.fn-25{
+    font-size: 25px;
+}
+.fn-20{
+    font-size: 20px;
+}
+.fn-15{
+    font-size: 15px;
+}
+.fn-10{
+    font-size: 10px;
+}
+.wolf{
+    font-family: "timeBurner";
+}
+ol{
+    list-style: none;
+}
+ol li{
+    width: 20px;
+    height: 20px;
+    border: solid 1px white;
+    border-radius: 50%;
+    float: left;
+}
